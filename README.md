@@ -6,5 +6,5 @@ We implemented multiple machine learning alogorithms on various different datase
 
 * Dataset: MNIST and CelebFaces Attributes
 * Algorithms:
-⋅⋅⋅ 1. Neural Network
-⋅⋅⋅ 2. TensorFlow Library
+⋅⋅⋅ 1. Neural Network ⋅⋅
+⋅⋅⋅ 2. TensorFlow Library ⋅⋅
